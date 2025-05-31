@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-31" />
   <meta name="citation_publication_date" content="2025-05-31" />
   <meta property="article:published_time" content="2025-05-31" />
-  <meta name="dc.modified" content="2025-05-31T05:54:36+00:00" />
-  <meta property="article:modified_time" content="2025-05-31T05:54:36+00:00" />
+  <meta name="dc.modified" content="2025-05-31T05:56:00+00:00" />
+  <meta property="article:modified_time" content="2025-05-31T05:56:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://duicker.github.io/art1/" />
   <meta name="citation_pdf_url" content="https://duicker.github.io/art1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://duicker.github.io/art1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://duicker.github.io/art1/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://duicker.github.io/art1/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://duicker.github.io/art1/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://duicker.github.io/art1/v/98735981bf006d590e0cef70b202f1ecf04e87c6/" />
+  <meta name="manubot_html_url_versioned" content="https://duicker.github.io/art1/v/98735981bf006d590e0cef70b202f1ecf04e87c6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://duicker.github.io/art1/v/98735981bf006d590e0cef70b202f1ecf04e87c6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://duicker.github.io/art1/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://duicker.github.io/art1/v/98735981bf006d590e0cef70b202f1ecf04e87c6/))
 was automatically generated
-from [duicker/art1@ca748bf](https://github.com/duicker/art1/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [duicker/art1@9873598](https://github.com/duicker/art1/tree/98735981bf006d590e0cef70b202f1ecf04e87c6)
 on May 31, 2025.
 </em></small>
 
