@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/duicker/art1/tree/gh-pages) branch hosts the contents of this directory at <https://duicker.github.io/art1/>.
-The permalink for this webpage version is <https://duicker.github.io/art1/v/98735981bf006d590e0cef70b202f1ecf04e87c6/>.
+The permalink for this webpage version is <https://duicker.github.io/art1/v/694b378a172ac3e3b45809cafc4dcba5ec98fd5e/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://duicker.github.io/art1/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`98735981bf006d590e0cef70b202f1ecf04e87c6`](https://github.com/duicker/art1/commit/98735981bf006d590e0cef70b202f1ecf04e87c6).
+[`694b378a172ac3e3b45809cafc4dcba5ec98fd5e`](https://github.com/duicker/art1/commit/694b378a172ac3e3b45809cafc4dcba5ec98fd5e).
